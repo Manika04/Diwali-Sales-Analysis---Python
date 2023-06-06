@@ -1,5 +1,5 @@
 # Diwali Sales Analysis Using Python 
-This project demonstrates Exploratory Data Analysis methods and techniques using Python.
+This is a beginners project that demonstrates Exploratory Data Analysis methods and techniques using Python.
 
 ## Project Description
 - Performed Data Cleaning and Data Manipulation.
